@@ -19,7 +19,7 @@ Lua é uma linguagem de programação poderosa, eficiente, leve e embutível. É
   <p style="font-style: italic; font-size: 20;"> Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes</p>
 </div>
 
-Lua foi criada em 1993 por Roberto Ierusalimschy, Luiz Henrique de Figueiredo, e Waldemar Celes, no Tecgraf, o grupo de tecnologia de computadores gráficos da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), no Brasil. 
+>Criada em 1993 numa parceria entre a PUC-RJ e a Petrobras, a linguagem LUA surgiu da necessidade de integrar duas outras linguagens – SOL (Simple Object Language) e DEL (Data-Entry Language) – que eram usadas em alguns projetos de engenharia da empresa. E o resultado foi uma linguagem tão prática e de fácil aprendizado que começou a ser usada em diversos outros ramos da programação, desde jogos até processamento de texto, passando até mesmo pelo controle de robôs, em gigantes da indústria como Microsoft, Verizon, Disney e Intel
 
 ## Para que serve?
 
