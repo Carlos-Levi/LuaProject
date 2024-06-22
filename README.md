@@ -1,22 +1,25 @@
-# LuaProject
+# Introdução à Lua para Sistemas Embarcados
+<div align="center">
+  
+![Lua Logo](images/lua-logo.png) 
+</div>
 
-![Lua Logo](images/lua-logo.png)
+- Este repositório é um guia introdutório à linguagem de programação Lua criado para monitoria de Sistemas Embarcados - 2023.2
 
-Este repositório é um guia introdutório à linguagem de programação Lua, criado para a disciplina de Sistemas Embarcados. (2023.2)
-
-## Por que Lua?
-
-Escolhi apresentar a linguagem Lua em 2023 porque ela estava completando 30 anos. Além disso, foi desenvolvida por brasileiros da PUC-Rio, o que a torna ainda mais interessante. Como monitor da disciplina de Sistemas Embarcados, achei que seria uma ótima oportunidade para destacar uma linguagem de programação nacional que tem impacto global.
+- Uma das linguagens escolhidas, especialmente em homenagem aos seus 30 anos e para destacar uma linguagem nacional de impacto global 🇧🇷 
 
 ## O que é Lua?
 
 Lua é uma linguagem de programação poderosa, eficiente, leve e embutível. É projetada para suportar programação procedural, orientada a objetos, funcional, baseada em dados e descritiva.
 
-![Fundadores](images/fundadores.jpg)
-
 ## História
 
-Lua foi criada em 1993 por Roberto Ierusalimschy, Luiz Henrique de Figueiredo, e Waldemar Celes, no Tecgraf, o grupo de tecnologia de computadores gráficos da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), no Brasil.
+<div align="center">
+  <img src="images/fundadores.jpg" width="500" height="300" alt="Fundadores">
+  <p style="font-style: italic; font-size: 20;"> Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes</p>
+</div>
+
+Lua foi criada em 1993 por Roberto Ierusalimschy, Luiz Henrique de Figueiredo, e Waldemar Celes, no Tecgraf, o grupo de tecnologia de computadores gráficos da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), no Brasil. 
 
 ## Para que serve?
 
@@ -93,4 +96,4 @@ Na pasta `examples`, você encontrará alguns exemplos simples de código Lua pa
 
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-![BrasilLua](images/brasil-lua.jpg)
+<img src="images/brasil-lua.jpg" width="620" height="350" alt="Humor astronauta brasileiro na lua">
