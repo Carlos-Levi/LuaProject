@@ -12,26 +12,43 @@
 
 Lua é uma linguagem de programação poderosa, eficiente, leve e embutível. É projetada para suportar programação procedural, orientada a objetos, funcional, baseada em dados e descritiva.
 
+Atualmente, Lua é desenvolvida no **laboratório LabLua** do **Departamento de Informática da PUC-Rio.**
+
+Para mais informações sobre Lua, visite o [site oficial](https://www.lua.org/).
+
 ## História
 
 <div align="center">
-  <img src="images/fundadores.jpg" width="500" height="300" alt="Fundadores">
-  <p style="font-style: italic; font-size: 20;"> Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes</p>
+  <img src="https://i.ytimg.com/vi/EFZ_ZbcC3OI/maxresdefault.jpg" width="550" height="300" alt="Hisória da linguagem lua - PUC RJ e Petrobbras">
 </div>
 
 >Criada em 1993 numa parceria entre a PUC-RJ e a Petrobras, a linguagem LUA surgiu da necessidade de integrar duas outras linguagens – SOL (Simple Object Language) e DEL (Data-Entry Language) – que eram usadas em alguns projetos de engenharia da empresa. E o resultado foi uma linguagem tão prática e de fácil aprendizado que começou a ser usada em diversos outros ramos da programação, desde jogos até processamento de texto, passando até mesmo pelo controle de robôs, em gigantes da indústria como Microsoft, Verizon, Disney e Intel
 
-## Para que serve?
 
-Lua é amplamente usada como linguagem de script em diversas aplicações, incluindo jogos, softwares de configuração, e outros sistemas embutidos devido à sua simplicidade e eficiência.
+## Para que serve e Onde é usada?
 
-## Onde é usada?
+Lua é amplamente usada como linguagem de script em diversas aplicações, principalmente em jogos, mas tamém em softwares de configuração, e outros sistemas embutidos devido à sua simplicidade e eficiência.
 
-Lua é utilizada em várias indústrias e por diversas empresas ao redor do mundo. Alguns exemplos notáveis incluem:
+<div align="center">
+  <img src="https://lh6.googleusercontent.com/proxy/XUrAOPtBuhS1oqYdTk4eit07XKbpqKt7vmy9BOhx2pkNikn7nja1brPmJ4r-2aglQwnJ4__oyFO669dZ1jCVM_qk3jgsMEkqWkK5rmeTEy4XAGA-xETBUFCJMVW7AtBBfSUepSCUvHkZolTQUJNFTOu44_tgS3-DEdqebl_GnN-EajbCNT5Un_NEiN3BHw" width="550" height="300" alt="Onde é usada">
+</div>
 
-- Jogos: Roblox, World of Warcraft, Angry Birds
+Alguns exemplos notáveis incluem:
+
+- Jogos: Roblox, World of Warcraft, Angry Birds, The Sims
 - Softwares: Adobe Lightroom, Nginx
 - Pesquisa: Tecgraf (PUC-Rio)
+<br>
+
+>Waldemar Celes, atual diretor do Tecgraf, segue em contato com a linguagem Lua no dia a dia, em diversos projetos do Instituto.
+>Um deles é o software Geresim, fruto de mais uma parceria com a Petrobras.
+>
+>O programa é um sistema gráfico interativo que integra ferramentas relacionadas à simulação de reservatórios de petróleo.
+
+<div align="center">
+  <img src="http://jornaldapuc.vrc.puc-rio.br/media/23-10-09_Waldemar-Celes_(Mateus%20Monte)%20(2).jpg" width="550" height="300" alt="Software Gerosim em uso">
+  <p style="font-style: italic; font-size: 20;"> O software Gerosim em uso no Instituto Tecgraf. Foto: Mateus Monte</p>
+</div>
 
 Para mais informações, visite o [site oficial da linguagem Lua](https://www.lua.org/portugues.html).
 
@@ -94,6 +111,9 @@ Na pasta `examples`, você encontrará alguns exemplos simples de código Lua pa
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes. Fique a vontade para fazer qualquer contribuição!
 
-<img src="images/brasil-lua.jpg" width="620" height="350" alt="Humor astronauta brasileiro na lua">
+<div align="center">
+  <img src="images/fundadores.jpg" width="500" height="300" alt="Fundadores">
+  <p style="font-style: italic; font-size: 20;"> Criadores da liguagem: Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes</p>
+</div>
