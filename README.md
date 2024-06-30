@@ -81,7 +81,7 @@ Lua é uma excelente escolha para sistemas embarcados devido à sua leveza e fle
 - Middleware Ginga: Lua é usada no Ginga, o middleware de TV digital adotado pelo Sistema Brasileiro de TV Digital (SBTVD). O Ginga permite a criação de - aplicativos interativos para a televisão digital.
 - Lego MindStorms: Microprocessadores ARM usados no Lego MindStorms, uma plataforma de robótica educativa, utilizam Lua para programar comportamentos robóticos.
 - Automação e Controle: Lua é utilizada em sistemas de automação industrial e controle, onde a necessidade de um script leve e eficiente é crucial.
-- 
+ 
 ### Linguagens Comumente Usadas em Sistemas Embarcados
 
 - **C**: A linguagem mais utilizada para desenvolvimento de firmware devido ao seu desempenho e controle sobre o hardware.
