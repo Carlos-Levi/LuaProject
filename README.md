@@ -1,12 +1,10 @@
 # Introdução à Lua para Sistemas Embarcados
 <div align="center">
-  
-![Lua Logo](images/lua-logo.png) 
+  <img src="https://miro.medium.com/v2/resize:fit:512/1*A240hQnv-DQsFRGuKhiOTw.png" width="600" height="270" alt="Logo Linguagem de programação Lua">
 </div>
 
-- Este repositório é um guia introdutório à linguagem de programação Lua criado para monitoria de Sistemas Embarcados - 2023.2
-
-- Uma das linguagens escolhidas, especialmente em homenagem aos seus 30 anos e para destacar uma linguagem nacional de impacto global 🇧🇷 
+- Este repositório é um guia introdutório à linguagem de programação Lua criado para monitoria de Sistemas Embarcados 2023.2 - Acesse também [repostório sistemas embarcados](https://github.com/Carlos-Levi/sistemas-embarcados-monitoria)
+- Essa foi uma das linguagens escolhidas, especialmente em homenagem aos seus 30 anos e para destacar uma linguagem nacional de impacto global 🇧🇷 
 
 ## O que é Lua?
 
@@ -120,6 +118,6 @@ Na pasta `examples`, você encontrará alguns exemplos simples de código Lua pa
 Este projeto é licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes. Fique a vontade para fazer qualquer contribuição!
 
 <div align="center">
-  <img src="images/fundadores.jpg" width="500" height="300" alt="Fundadores">
-  <p style="font-style: italic; font-size: 20;"> Criadores da liguagem: Roberto Ierusalimschy, Luiz Henrique de Figueiredo e Waldemar Celes</p>
+  <img src="https://www.ctc.puc-rio.br/Upload/Imagem/2022/09/ctc_800x520-card_lua-120922_da_1_.jpg" width="500" height="300" alt="Fundadores">
+  <p style="font-style: italic; font-size: 20;"> Criadores da liguagem: Waldemar Celes, Luiz Henrique de Figueiredo e Roberto Ierusalimschy</p>
 </div>
